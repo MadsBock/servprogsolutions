@@ -1,0 +1,1 @@
+console.log("This server serves the files in the /docs folder")
